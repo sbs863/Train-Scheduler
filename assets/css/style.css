@@ -1,0 +1,14 @@
+.scheduleHeader {
+  font-weight: bold;
+}
+
+.form-group {
+width: 100%;
+vertical-align: center;
+display: flex;
+justify-content: space-around;
+}
+
+.table {
+  text-transform:capitalize;
+}
